@@ -130,6 +130,10 @@ a, a:focus, a:hover {
   outline: 0;
 }
 
+#paricles-js {
+  height: 100%
+  background: #0C0C0C;}
+
 .btn.active.focus,
 .btn.active:focus,
 .btn.focus,
